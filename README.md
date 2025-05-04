@@ -7,7 +7,7 @@ Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, T
 
 ## Actividades
 1. Calcular analíticamente la función de transferencia del sistema cardiovascular.
-2.Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
+2. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
 3. Establecer el modelo de ecuaciones integro-diferenciales.
 5. Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para sintonizar los valores óptimos para cada una de las ganancias kP, kI y kD.
 6.Determinar la respuesta a la funcion en el intervalo  t e [0,15] (segundos)en Python, Simulink yMultisim en lazo abierto y en lazo cerrado con el controlador
